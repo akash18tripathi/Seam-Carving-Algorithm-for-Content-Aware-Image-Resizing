@@ -50,6 +50,7 @@ For convenience, a Python script `./src/driver.py` is provided, which performs t
   -output/
     -output.jpeg
 -artifacts/
+-bin/
 
 
 ## Dependencies:
