@@ -46,11 +46,11 @@ For convenience, a Python script `./src/driver.py` is provided, which performs t
   - driver.py
 - data/
   - input/
-    -sample1.jpeg
+    - sample1.jpeg
   -output/
-    -output.jpeg
--artifacts/
--bin/
+    - output.jpeg
+- artifacts/
+- bin/
 
 
 ## Dependencies:
